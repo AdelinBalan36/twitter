@@ -1,3 +1,9 @@
+Note: Although the project shows that most of the code its C, thats because the application use sqlite library for managing the database of the application wich was already
+implemented in C. The logical that stands behind classes and functionality of the application is about modern C++ features.
+
+
+
+
 The application wants to simulate a social app like Twitter.
 The app is implemented in C++ with modern features:
 

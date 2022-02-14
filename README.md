@@ -14,7 +14,7 @@ The part of GUI features is implemented in QT
 
 It is a multiclient application with TCPsockets. The communication is made with the help of an json class
 
-To memorize the datas of aplication we are using a database from SQLite. 
+To memorize the datas of aplication we are using a database from SQLite ( wich most of the code is implemented in C )
 
 Functions of app: 
 
